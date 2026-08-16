@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TresEnRaya">
+    <output-path>$PROJECT_DIR$/out/artifacts/TresEnRaya</output-path>
+    <root id="archive" name="ProyectoEstruturaDatos-main (1).jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
